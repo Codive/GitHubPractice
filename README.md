@@ -1,6 +1,7 @@
 1
 2
 3
+merge test
 # GitHubPractice
 // Comment
 ## Issue
