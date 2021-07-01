@@ -1,3 +1,4 @@
+merge test
 # GitHubPractice
 // Comment
 ## Issue
