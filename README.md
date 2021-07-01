@@ -1,4 +1,6 @@
 # GitHubPractice
-
-# GitHub Practice
 // Comment
+## Issue
+## Pull requests
+## Actions
+## Projects
